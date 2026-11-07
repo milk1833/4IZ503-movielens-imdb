@@ -1,0 +1,10 @@
+tabulka,řádků,sloupců,MB
+dim_movie,62423,28,14.68
+dim_genre,19,2,0.0
+bridge_movie_genre,107245,2,0.94
+dim_person,28277,5,1.72
+bridge_movie_director,70549,2,1.17
+dim_user,16254,8,1.36
+dim_date,8405,7,0.36
+fact_rating,2503205,7,136.23
+fact_tag,77672,6,4.55
